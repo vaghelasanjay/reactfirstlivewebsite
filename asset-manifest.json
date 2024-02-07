@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactfirstlivewebsite/static/css/main.03d455d7.css",
+    "main.js": "/reactfirstlivewebsite/static/js/main.3c7abdc3.js",
+    "static/js/592.ce946119.chunk.js": "/reactfirstlivewebsite/static/js/592.ce946119.chunk.js",
+    "static/media/marketing.jpg": "/reactfirstlivewebsite/static/media/marketing.f629aa392c4ff105f747.jpg",
+    "static/media/app.jpeg": "/reactfirstlivewebsite/static/media/app.8714f36598ad2ce812b5.jpeg",
+    "static/media/android.jpeg": "/reactfirstlivewebsite/static/media/android.ee1d95083516dda0d669.jpeg",
+    "static/media/software.jpeg": "/reactfirstlivewebsite/static/media/software.1cb4dc77f9fd741d63f4.jpeg",
+    "static/media/digital.jpeg": "/reactfirstlivewebsite/static/media/digital.dad8270c838055c62dd3.jpeg",
+    "static/media/s1.jpg": "/reactfirstlivewebsite/static/media/s1.8e51e67dff71d6464727.jpg",
+    "static/media/hero-img.png": "/reactfirstlivewebsite/static/media/hero-img.53f1b5467e5095dc4126.png",
+    "static/media/img2.svg": "/reactfirstlivewebsite/static/media/img2.d12e2a271e618bd9bc130b61d3930482.svg",
+    "static/media/logo.svg": "/reactfirstlivewebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reactfirstlivewebsite/index.html",
+    "main.03d455d7.css.map": "/reactfirstlivewebsite/static/css/main.03d455d7.css.map",
+    "main.3c7abdc3.js.map": "/reactfirstlivewebsite/static/js/main.3c7abdc3.js.map",
+    "592.ce946119.chunk.js.map": "/reactfirstlivewebsite/static/js/592.ce946119.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03d455d7.css",
+    "static/js/main.3c7abdc3.js"
+  ]
+}
